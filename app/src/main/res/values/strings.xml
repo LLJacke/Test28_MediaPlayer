@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test28_MediaPlayer</string>
+    <string name="start">start</string>
+    <string name="pause">pause</string>
+    <string name="stop">stop</string>
+    <string name="looping">looping</string>
+    <string name="play">play</string>
+    <string name="isnlooping">is not looping</string>
+</resources>
